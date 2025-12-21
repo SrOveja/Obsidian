@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4fed4444a4672aef",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d17fa8b481f9f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede8819f632fc467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Predictions of single cell mechanical properties in microchannels based on deep learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Predictions of single cell mechanical properties in microchannels based on deep learning"
+            }
+          },
+          {
+            "id": "054b67f27cb30467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85a07bd33a41827e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f393087af7b89ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcf3cf402a06c909",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5beb60099a7ff960",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3028750797d03612",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7affd2bb50d6a009",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd8a1ad86ac53bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a2fe088967236b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Learning/Predictions of single cell mechanical properties in microchannels based on deep learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Predictions of single cell mechanical properties in microchannels based on deep learning"
+            }
+          },
+          {
+            "id": "2345cf0c80fdfe86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Learning/Predictions of single cell mechanical properties in microchannels based on deep learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Predictions of single cell mechanical properties in microchannels based on deep learning"
+            }
+          },
+          {
+            "id": "6f338bc81c9a5a0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2618b24918e270e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "21f7f56dadefcd2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/Predictions of single cell mechanical properties in microchannels based on deep learning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Predictions of single cell mechanical properties in microchannels based on deep learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "bibtex-scholar:Copy all BibTeX": false,
+      "bibtex-scholar:Fetch BibTeX online": false,
+      "bibtex-scholar:Paper panel": false
+    }
+  },
+  "active": "ede8819f632fc467",
+  "lastOpenFiles": [
+    "Tasks.md",
+    "Machine Learning/Predictions of single cell mechanical properties in microchannels based on deep learning.md",
+    "Machine Learning/references.md",
+    "Mechanobiology/PDF",
+    "System administration",
+    "Machine Learning",
+    "Mechanobiology"
+  ]
+}

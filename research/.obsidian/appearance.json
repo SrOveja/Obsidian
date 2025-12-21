@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Wasp",
+  "accentColor": "#d2b004",
+  "interfaceFontFamily": "Monofur Nerd Font",
+  "textFontFamily": "Monofur Nerd Font",
+  "monospaceFontFamily": "Monofur Nerd Font Mono",
+  "baseFontSize": 20,
+  "nativeMenus": false
+}
